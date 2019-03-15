@@ -1,0 +1,9 @@
+Null Conditional operatörü ?. opearator, 
+Automatically Implemented Properties/otomatik uygulanan özellikler, 
+String Interpolation veya $'lý kolay string dönüþümü ,
+object or collection initializer kullanýmý/tek bir adýmda obje baþlatýp özelliklerine deðer atama.
+Extension/geniþleme metotlarý, varolan c#sýnýflarýný vb. çeþitli metotlarla geniþletmek için kullanýlýr.
+Lambda ifadeleri, 
+kapalý casting/var keyword, ve nameof ile sýnýf, deðiþken veya özellik isimlerini çekme
+Anonymous Types, 
+Asynchronous metotlar/asynch & await kullanýmý
