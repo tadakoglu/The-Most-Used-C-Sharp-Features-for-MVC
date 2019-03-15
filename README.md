@@ -14,11 +14,11 @@ I have developed a project to practice the most used C# features in ASP.NET Core
 
 **Extension/genişleme metotları, varolan c#sınıflarını vb. çeşitli metotlarla genişletmek için kullanılır.**
 
-**Lambda expressions(ifadeleri), **
+**Lambda expressions(ifadeleri),**
 
 **kapalı casting/var keyword, ve nameof ile sınıf, değişken veya özellik isimlerini çekme**
 
-**Anonymous Types **
+**Anonymous Types**
 
 **Asynchronous metotlar/asynch & await kullanımı**
 
